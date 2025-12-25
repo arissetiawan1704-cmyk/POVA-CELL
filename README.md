@@ -159,6 +159,7 @@
         <li>Ganti Port Charger: Rp120.000 – Rp250.000</li>
         <li>Ganti Speaker / Mic: Rp80.000 – Rp150.000</li>
         <li>Ganti Backdoor: Rp80.000 – Rp200.000</li>
+        <li>untuk pengecekan itu **GERATIS** walaupun di bongkar</li>
       </ul>
 
       <p><em>*Harga tergantung tipe HP dan tingkat kerusakan</em></p>
